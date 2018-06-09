@@ -36,5 +36,8 @@
     "psr-4": {
       "ObjectivePHP\\Application\\": "src/"
     }
+  },
+  "archive": {
+    "exclude": ["/.gitignore", "/tests/", "/run-tests.sh", "/.travis.yml"]
   }
 }
